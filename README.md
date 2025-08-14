@@ -18,7 +18,7 @@ This project showcases the development of a Library Management System using SQL.
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/SARANYA-NATRAYAN/SQL_LIBRARY-MANAGEMENT/blob/main/library_img.png)
+![ERD](https://github.com/SARANYA-NATRAYAN/SQL_LIBRARY-MANAGEMENT/blob/main/library_erd.png)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
